@@ -11,4 +11,8 @@ class NewClass {
     func doThing() {
         print("I'm a framework method")
     }
+    
+    func doThing2() {
+        print("I'm another framework method")
+    }
 }
