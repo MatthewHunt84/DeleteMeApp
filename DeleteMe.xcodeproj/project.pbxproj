@@ -12,6 +12,7 @@
 		F4CE9CF22BDAEAEC00E81492 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4CE9CF12BDAEAEC00E81492 /* Assets.xcassets */; };
 		F4CE9CF52BDAEAEC00E81492 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4CE9CF42BDAEAEC00E81492 /* Preview Assets.xcassets */; };
 		F4CE9CFD2BDAF44E00E81492 /* PackageDocDemo in Frameworks */ = {isa = PBXBuildFile; productRef = F4CE9CFC2BDAF44E00E81492 /* PackageDocDemo */; };
+		F4CE9CFF2BDAF82A00E81492 /* NewClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CE9CFE2BDAF82A00E81492 /* NewClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		F4CE9CEF2BDAEAEA00E81492 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F4CE9CF12BDAEAEC00E81492 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F4CE9CF42BDAEAEC00E81492 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F4CE9CFE2BDAF82A00E81492 /* NewClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			children = (
 				F4CE9CED2BDAEAEA00E81492 /* DeleteMeApp.swift */,
 				F4CE9CEF2BDAEAEA00E81492 /* ContentView.swift */,
+				F4CE9CFE2BDAF82A00E81492 /* NewClass.swift */,
 				F4CE9CF12BDAEAEC00E81492 /* Assets.xcassets */,
 				F4CE9CF32BDAEAEC00E81492 /* Preview Content */,
 			);
@@ -145,6 +148,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F4CE9CFF2BDAF82A00E81492 /* NewClass.swift in Sources */,
 				F4CE9CF02BDAEAEA00E81492 /* ContentView.swift in Sources */,
 				F4CE9CEE2BDAEAEA00E81492 /* DeleteMeApp.swift in Sources */,
 			);
